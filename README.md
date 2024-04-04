@@ -13,6 +13,8 @@
 <details>
   <summary>Languages</summary>
 
+<br>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-black?logo=php)
 ![HTML](https://img.shields.io/badge/HTML-black?logo=html5)
@@ -28,6 +30,8 @@
 <details>
   <summary>Frameworks</summary>
 
+<br>
+
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-black?logo=nuxt.js)
 ![Shopware](https://img.shields.io/badge/Shopware-black?logo=shopware)
 ![Tailwind](https://img.shields.io/badge/Tailwind-black?logo=tailwindcss)
@@ -40,6 +44,8 @@
 <details>
     <summary>Databases</summary>
 
+<br>
+
 ![MariaDB](https://img.shields.io/badge/MariaDB-black?logo=mariadb)
 ![Microsoft SQL-Server](https://img.shields.io/badge/SQL_Server-black?logo=windows)
 ![SQLite](https://img.shields.io/badge/SQLite-black?logo=sqlite)
@@ -51,6 +57,8 @@
 <details>
     <summary>Operating Systems</summary>
 
+<br>
+
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 ![Linux](https://img.shields.io/badge/Windows_and_Servers-black?logo=windows)
 
@@ -58,6 +66,8 @@
 
 <details>
     <summary>Tools and Software</summary>
+
+<br>
 
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
 ![Docker](https://img.shields.io/badge/Docker-black?logo=docker)
