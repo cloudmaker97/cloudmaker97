@@ -5,7 +5,7 @@
 | ![Website](https://img.shields.io/badge/Website-black?logo=wordpress) | Dennis Heinrich | [Link](https://dennis-heinri.ch) |
 | ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github) | cloudmaker97 | [Link](https://github.com/cloudmaker97) |
 | ![Steam](https://img.shields.io/badge/Steam-black?logo=steam) | cloudmaker97 | [Link](https://steamcommunity.com/id/cloudmaker97) |
-| ![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter) | cloudmaker97 | [Link](https://twitter.com/cloudmaker97) |
+| ![Twitter / X](https://img.shields.io/badge/Twitter-black?logo=x) | cloudmaker97 | [Link](https://twitter.com/cloudmaker97) |
 | ![Discord](https://img.shields.io/badge/Discord-black?logo=discord) | cloudmaker97 | [Link](https://discord.gg/DQMdatJJQT) |
 
 # Skills and Techs
