@@ -6,7 +6,7 @@
 | ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github) | cloudmaker97 | [Link](https://github.com/cloudmaker97) |
 | ![Steam](https://img.shields.io/badge/Steam-black?logo=steam) | cloudmaker97 | [Link](https://steamcommunity.com/id/cloudmaker97) |
 | ![Twitter / X](https://img.shields.io/badge/Twitter-black?logo=x) | cloudmaker97 | [Link](https://twitter.com/cloudmaker97) |
-| ![Discord](https://img.shields.io/badge/Discord-black?logo=discord) | cloudmaker97 | [Link](https://discord.gg/DQMdatJJQT) |
+| ![Discord](https://img.shields.io/badge/Discord-black?logo=discord) | cloudmaker97 | [Link](https://discord.gg/v93eZKFcCp) |
 
 # Skills and Techs
 
