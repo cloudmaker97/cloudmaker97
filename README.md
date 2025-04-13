@@ -32,6 +32,7 @@
 
 <br>
 
+![Astro](https://img.shields.io/badge/Astro-black?logo=astro)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-black?logo=nuxt.js)
 ![Shopware](https://img.shields.io/badge/Shopware-black?logo=shopware)
 ![Tailwind](https://img.shields.io/badge/Tailwind-black?logo=tailwindcss)
